@@ -94,32 +94,90 @@ Diseño y verificación formal de un sistema ético multiagente utilizando álge
 
 ### CS 513: Topología y Geometría de Espacios Éticos (9 créditos)
 #### Justificación
-Explora la estructura geométrica y topológica de espacios de valores y decisiones éticas, proporcionando herramientas para analizar la continuidad y estabilidad de sistemas morales.
+La asignatura proporciona el marco matemático necesario para analizar la estructura continua y geométrica de espacios de valores éticos, fundamental para comprender la estabilidad, continuidad y transformación de sistemas morales en IA.
 
-#### Temario
-1. Espacios Topológicos Éticos
-   1.1. Topología de Valores Morales
-      1.1.1. Conjuntos abiertos y cerrados de valores
-      1.1.2. Continuidad de funciones éticas
-   1.2. Espacios Métricos Morales
-      1.2.1. Distancias entre valores éticos
-      1.2.2. Completitud y convergencia moral
+#### Temario Detallado
 
-2. Variedades Diferenciables Éticas
-   2.1. Geometría Diferencial de Decisiones
-      2.1.1. Cartas locales y atlas morales
-      2.1.2. Campos vectoriales éticos
-   2.2. Formas Diferenciales en Ética
-      2.2.1. Integración sobre espacios morales
-      2.2.2. Teorema de Stokes ético
+1. **Espacios Topológicos Éticos**
+   1.1. Fundamentos de Topología en Espacios de Valores
+      1.1.1. Conjuntos abiertos y cerrados de valores morales
+      1.1.2. Bases y subbases de sistemas éticos
+      1.1.3. Conectividad y compacidad en espacios morales
+   
+   1.2. Continuidad y Convergencia Ética
+      1.2.1. Funciones continuas entre sistemas morales
+      1.2.2. Sucesiones y redes de decisiones éticas
+      1.2.3. Límites y puntos de acumulación moral
+   
+   1.3. Espacios Métricos de Valores
+      1.3.1. Métricas para comparación de valores éticos
+      1.3.2. Completitud y teoremas de punto fijo
+      1.3.3. Espacios de Banach de funcionales éticos
 
-3. Homotopía y Homología en Sistemas Éticos
+2. **Geometría Diferencial de Espacios Morales**
+   2.1. Variedades Diferenciables Éticas
+      2.1.1. Cartas locales y atlas de valores morales
+      2.1.2. Vectores tangentes y cotangentes éticos
+      2.1.3. Métricas de Riemann en espacios de decisión
+   
+   2.2. Geometría de Decisiones Éticas
+      2.2.1. Geodésicas morales y distancia intrínseca
+      2.2.2. Curvatura de espacios de valores
+      2.2.3. Transporte paralelo de principios éticos
+   
+   2.3. Formas Diferenciales en Ética
+      2.3.1. 1-formas y gradientes morales
+      2.3.2. Integración en variedades éticas
+      2.3.3. Teorema de Stokes y conservación moral
+
+3. **Topología Algebraica en Sistemas Éticos**
    3.1. Grupos Fundamentales de Valores
-      3.1.1. Caminos y lazos morales
-      3.1.2. Deformaciones continuas de principios
+      3.1.1. Lazos y homotopías de decisiones éticas
+      3.1.2. Espacios recubridores de sistemas morales
+      3.1.3. Clasificación de obstrucciones éticas
+   
    3.2. Homología de Sistemas Éticos
-      3.2.1. Cadenas de valores morales
-      3.2.2. Invariantes homológicos éticos
+      3.2.1. Grupos de homología moral
+      3.2.2. Secuencias exactas y teorema de Mayer-Vietoris
+      3.2.3. Dualidad de Poincaré en ética
+   
+   3.3. Cohomología y Teoría de Morse
+      3.3.1. Formas diferenciales cerradas y exactas
+      3.3.2. Teoría de Morse para decisiones éticas
+      3.3.3. Números de Betti y complejidad moral
+
+4. **Aplicaciones Avanzadas**
+   4.1. Flujos Gradiente en Espacios Éticos
+      4.1.1. Ecuaciones diferenciales de decisión
+      4.1.2. Estabilidad y atractores morales
+      4.1.3. Optimización en variedades éticas
+   
+   4.2. Teoría de Singularidades en Ética
+      4.2.1. Puntos críticos de funciones morales
+      4.2.2. Clasificación de singularidades éticas
+      4.2.3. Catástrofes en sistemas morales
+
+#### Conceptos Fundamentales
+- Topología de espacios éticos
+- Geometría diferencial de decisiones morales
+- Invariantes topológicos en sistemas éticos
+- Homología y cohomología moral
+- Singularidades y catástrofes éticas
+
+#### Trabajo Final
+Desarrollo de un proyecto que aplique métodos topológicos o geométricos al análisis de un sistema ético específico, incluyendo:
+1. Modelización matemática del espacio de valores
+2. Análisis de propiedades topológicas/geométricas
+3. Implementación computacional
+4. Interpretación ética de los resultados
+
+#### Bibliografía
+1. Munkres, J. R. (2000). *Topology*. Prentice Hall.
+2. do Carmo, M. P. (1992). *Riemannian Geometry*. Birkhäuser.
+3. Hatcher, A. (2002). *Algebraic Topology*. Cambridge University Press.
+4. Arnold, V. I. (2003). *Catastrophe Theory*. Springer.
+5. Milnor, J. (1963). *Morse Theory*. Princeton University Press.
+
 
 ## Segundo Trimestre (27 créditos)
 Enfoque: Sistemas Dinámicos y Lógica
