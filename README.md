@@ -1,4 +1,4 @@
-# Máster en Ética de IA y Sistemas Emergentes
+# Máster Universitsrio en Inteligencia Artificial y Narrativas Emergentes
 
 ## Primer Trimestre (27 créditos)
 Enfoque: Fundamentos Matemáticos y Teóricos
